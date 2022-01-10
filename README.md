@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hey there, I'm Ari 👋</h1>
 
 <p align="center">
@@ -10,13 +9,11 @@
 </p>
 
 <div align="center">
-  <h4>🛰️ Tech 🛰️</h4>
+  <h3>🛰️ Tech 🛰️</h3>
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img
-    src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"
-    alt="Bash">
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
 
@@ -43,12 +40,21 @@
 
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+  
+  
 
 </div>
 
+<br>
 
 <div align="center">
-  <h4>⚙️ GitHub Stats ⚙️</h4>
+  <h3>⚙️ GitHub Stats ⚙️</h3>
   <a href="https://github.com/ariyonaty?tab=repositories&type=source">
     <img align="center"
       src="https://github-readme-stats.vercel.app/api?username=ariyonaty&hide_title=true&show_icons=true&theme=react&border_color=ffffff&hide_border=false&include_all_commits=false&count_private=false&line_height=22&border_radius=25&hide=issues&custom_title=Github%20Stats" />
@@ -56,9 +62,12 @@
     <img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyonaty&hide=excluded&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=ffffff&hide_border=false&border_radius=25&langs_count=8&custom_title=Top%20Languages" />
     <br><br>
-    <img
-      src="https://activity-graph.herokuapp.com/graph?username=ariyonaty&theme=react-dark&bg_color=20232a&hide_border=true"
-      width="75%" />
+  <!--
+    <img class="contrib"
+      src="https://activity-graph.herokuapp.com/graph?username=ariyonaty&theme=github&custom_title=Contributions%20Graph&hide_border=true"
+      width="75%"/>
+    -->
+    
   </a>
 
 
