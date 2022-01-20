@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <h3>🛰️ Tech 🛰️</h3>
+  <h2>🛰️ Tech 🛰️</h2>
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -53,22 +53,13 @@
 
 <br>
 
+
+
 <div align="center">
-  <h3>⚙️ GitHub Stats ⚙️</h3>
-  <a href="https://github.com/ariyonaty?tab=repositories&type=source">
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=ariyonaty&hide_title=true&show_icons=true&theme=react&border_color=ffffff&hide_border=false&include_all_commits=false&count_private=false&line_height=22&border_radius=25&hide=issues&custom_title=Github%20Stats" />
-    <br><br>
-    <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyonaty&hide=excluded&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=ffffff&hide_border=false&border_radius=25&langs_count=8&custom_title=Top%20Languages" />
-    <br><br>
-  <!--
-    <img class="contrib"
-      src="https://activity-graph.herokuapp.com/graph?username=ariyonaty&theme=github&custom_title=Contributions%20Graph&hide_border=true"
-      width="75%"/>
-    -->
-    
-  </a>
-
-
+<h2>⚙️ GitHub Stats ⚙️</h2>
+  
+[![AriYonaty's github stats](https://github-readme-stats.vercel.app/api?username=ariyonaty&show_icons=true&count_private=true&theme=radical)](https://github.com/ariyonaty)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariyonaty&theme=dark&count_private=true&theme=radical)](https://github.com/ariyonaty)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyonaty&theme=radical&hide=html,javascript)](https://github.com/ariyonaty)  
+  
 </div>
