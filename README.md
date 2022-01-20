@@ -1,12 +1,18 @@
-
-<h1 align="center">Hey there, I'm Ari 👋</h1>
-
 <p align="center">
+<img src="https://raw.githubusercontent.com/ariyonaty/ariyonaty/main/github_hero.jpg" width="75%">
+</p>
+
+<br>
+
+<div align="center">
+  <h2>👋 Hey 👋</h2>
   I'm a computer engineering student with focuses in DevOps and Cybersecurity.
   <br>
   Current topics of focus include cloud computing and network security.
   <br>
-</p>
+  Have similar interests, want to collaborate, or just say hi? Reach out!
+  <br>
+</div>
 
 <div align="center">
   <h2>🛰️ Tech 🛰️</h2>
