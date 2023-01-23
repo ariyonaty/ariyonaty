@@ -6,9 +6,9 @@
 
 <div align="center">
   <h2>👋 Hey 👋</h2>
-  I'm a computer engineering student with focuses in DevOps and Cybersecurity.
+  I'm a computer engineer with focuses in DevOps, InfoSec, and Cloud Computing!
   <br>
-  Current topics of focus include cloud computing and network security.
+  Current topics of interest include Kubernetes and Software Supply Chain Security.
   <br>
   Have similar interests, want to collaborate, or just say hi? Reach out!
   <br>
@@ -51,6 +51,7 @@
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   
   
