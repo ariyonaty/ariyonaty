@@ -66,7 +66,6 @@
 <h2>⚙️ GitHub Stats ⚙️</h2>
   
 [![AriYonaty's github stats](https://github-readme-stats.vercel.app/api?username=ariyonaty&show_icons=true&count_private=true&theme=radical)](https://github.com/ariyonaty)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariyonaty&theme=dark&count_private=true&theme=radical)](https://github.com/ariyonaty)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyonaty&theme=radical&hide=html,javascript)](https://github.com/ariyonaty)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyonaty&theme=radical&hide=html,javascript&layout=compact)](https://github.com/ariyonaty)  
   
 </div>
