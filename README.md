@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>👋 Hey 👋</h2>
-  I'm a computer engineer with focuses in DevOps, InfoSec, and Cloud Computing!
+  I'm a computer engineer focusing in DevOps, InfoSec, and Cloud Computing!
   <br>
   Current topics of interest include Kubernetes and Software Supply Chain Security.
   <br>
